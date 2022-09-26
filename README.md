@@ -1,1 +1,1 @@
-# infinite_training_task
+# infinite_code
