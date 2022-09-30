@@ -94,7 +94,6 @@ class Department{
 class EmployeeTest {
     public static void main(String[] args) {
         EmployeeTest employeeTest= new EmployeeTest();
-
         Employee[] employees = new Employee[10];
         for(int i=0;i<=9;i++) {
             employees[i] = new Employee();
